@@ -1,6 +1,6 @@
-# Deploy SolrCloud on a CentOS Hypervisor
+# Deploy Solr and SolrCloud
 
-This is to document how to deploy a SolrCloud on a CentOS 7 host.
+This is to document how to deploy Solr/SolrCloud on a CentOS 7 host.
 
 The Solr version is 8.9.0. 
 
