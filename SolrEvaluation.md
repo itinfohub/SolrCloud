@@ -15,13 +15,27 @@ cloud computing.
 
 The physical machine is a dedicated Supermicro machine with the following settings:
 
-| Computing Resource Category | Setting |
-|---|---|
-| Processor Model | Intel(R) Xeon(R) E5645 |
-| Processor Clock   | 2.40GHz |
-| Sockets           | 2 |
-| Cores per Socket  | 6 |
-| Threads per Core  | 2 |
-| Total CPUs        | 24 |
-| Total Memory      | 90,567,040 kB |
+#### CPU Characteristics
 
+| Computing Resource Category | Setting |            
+|---|---|
+| Processor Model | Intel(R) Xeon(R) E5645 |        
+| Processor Clock   | 2.40GHz |                     
+| Sockets           | 2 |                           
+| Cores per Socket  | 6 |                            
+| Threads per Core  | 2 |                          
+| Total CPUs        | 24 |                          
+| Total Memory      | 90,567,040 kB |              
+
+
+#### Storage Media Specification
+
+  | Storage Media Property | Value |
+  | --- | --- |
+  | Storage Media Type |  3.5 Inch HDD |
+  | Make | Seagate |
+  | Model |  Constellation ES.3 |
+  | Capacity | 1TB |
+  | Cache Size | 128 MB |
+  | Rotaional Speed | 7200 RPM |
+  | Bandwidth | SATA 6Gb/s | 
