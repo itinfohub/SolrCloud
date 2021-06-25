@@ -17,7 +17,7 @@ The physical machine is a dedicated Supermicro machine with the following settin
 
 | Computing Resource Category | Setting |
 |---|---|
-| **Processor Model** | **Intel(R) Xeon(R) E5645** |
+| Processor Model | Intel(R) Xeon(R) E5645 |
 | Processor Clock   | 2.40GHz |
 | Sockets           | 2 |
 | Cores per Socket  | 6 |
