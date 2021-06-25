@@ -14,6 +14,7 @@ cloud computing.
 # Common Settings
 
 | Category | Setting |
+| --- | --- |
 | Solr Version | 8.9.0 |
 | Jetty Version | |
 | Max Heap Memory | 8192MB |
