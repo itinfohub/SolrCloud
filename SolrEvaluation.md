@@ -11,6 +11,16 @@ presented and analyzed.
 This might be instrumental to people who are working in libraries for their adoption of 
 cloud computing. 
 
+# Common Settings
+
+| Category | Setting |
+| Solr Version | 8.9.0 |
+| Jetty Version | |
+| Max Heap Memory | 8192MB |
+| Min Heap Memory | 8192MB |
+| EBSCO UADATA    | 6211347 Docs|
+
+ 
 # On-premises Solr Deployment
 
 The physical machine is a dedicated Supermicro machine with the following settings:
