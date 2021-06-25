@@ -23,3 +23,9 @@ The Solr version is 8.9.0.
 2. [Apache Solr Memory Tuning for Production](https://blog.cloudera.com/apache-solr-memory-tuning-for-production/)
 3. [Configure Solr for Optimum Performance](https://medium.com/tech-tajawal/tips-and-tricks-to-maximize-apache-solr-performance-74e8ea4f5c8d)
 4. [Improving Solr Performance](https://tech.olx.com/improving-solr-performance-f4202d28b72d)
+
+
+
+# Solr Replication, Backup and Restore
+
+1. [API for Solr Replication, Backup and Restore](https://solr.apache.org/guide/6_6/making-and-restoring-backups.html)
