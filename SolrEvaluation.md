@@ -59,7 +59,7 @@ The physical machine is a dedicated Supermicro machine with the following settin
   
 #### Performance (EBSCO UADATA 6,211,347 Docs)
 
-| Experiment  | Test 1  | Test 2 | Test 3 | Average |
+| Experiment  | Test 1 (seconds)  | Test 2 (seconds) | Test 3 (seconds)| Average (seconds) |
 |---|---|---|---|---|
 |Physical Server | | | |
 |VM | | | |
