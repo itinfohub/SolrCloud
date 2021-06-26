@@ -13,6 +13,12 @@ cloud computing.
 
 # Common Settings
 
+>```
+>Container 8.8.2: openjdk version "11.0.11" 2021-04-20
+>OpenJDK Runtime Environment 18.9 (build 11.0.11+9)
+>OpenJDK 64-Bit Server VM 18.9 (build 11.0.11+9, mixed mode, sharing)
+>```
+
 | Category | Setting |
 | --- | --- |
 | Solr Version | 8.9.0 |
