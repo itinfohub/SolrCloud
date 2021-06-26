@@ -56,3 +56,12 @@ The physical machine is a dedicated Supermicro machine with the following settin
   | Cache Size | 128 MB |
   | Rotaional Speed | 7200 RPM |
   | Bandwidth | SATA 6Gb/s | 
+  
+#### Performance (EBSCO UADATA 6,211,347 Docs)
+
+| Experiment  | Test 1  | Test 2 | Test 3 | Average |
+|---|---|---|---|---|
+|Physical Server | | | |
+|VM | | | |
+|Container| | | |
+
