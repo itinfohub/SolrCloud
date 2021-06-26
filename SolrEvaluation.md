@@ -61,7 +61,7 @@ The physical machine is a dedicated Supermicro machine with the following settin
 
 | Experiment  | Test 1 (seconds)  | Test 2 (seconds) | Test 3 (seconds)| Average (seconds) |
 |---|---|---|---|---|
-|Physical Server |5401 |5416 |5323 |
+|Physical Server |5401 |5275 |5323 |
 |VM | | | |
 |Container|5554 |5523 | 5521 |
 
