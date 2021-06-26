@@ -65,3 +65,9 @@ The physical machine is a dedicated Supermicro machine with the following settin
 |VM | | | |
 |Container|5554 |5523 | |
 
+
+# References
+
+1. Yadav A.K., Garg M.L., Ritika (2019) Docker Containers Versus Virtual Machine-Based Virtualization. In: Abraham A., Dutta P., Mandal J., Bhattacharya A., Dutta S. (eds) Emerging Technologies in Data Mining and Information Security. Advances in Intelligent Systems and Computing, vol 814. Springer, Singapore. https://doi.org/10.1007/978-981-13-1501-5_12
+2. 
+3. 
