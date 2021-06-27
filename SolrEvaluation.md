@@ -83,3 +83,9 @@ To cite:
 Cassandra workload concurrently. Concurrency Computat Pract Exper. 2020;e5693. https://doi.org/10.1002/cpe.5693
 
 ```
+
+
+# Datasets
+
+1. [database dump](http://www.informatics.jax.org/downloads/database_backups/)
+2. EBSCO MARC Records
