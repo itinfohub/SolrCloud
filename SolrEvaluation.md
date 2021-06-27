@@ -62,7 +62,7 @@ The physical machine is a dedicated Supermicro machine with the following settin
 | Experiment  | Test 1 (seconds)  | Test 2 (seconds) | Test 3 (seconds)| Average (seconds) |
 |---|---|---|---|---|
 |Physical Server |5275|5323 |5353 |
-|VM |5856 | | |
+|VM |5856 | 6070 |6055 |
 |Container|5554 |5523 | 5521 |
 
 # Network Bandwidth and Latency Evaluation Tools
