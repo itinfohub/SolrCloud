@@ -64,6 +64,7 @@ The physical machine is a dedicated Supermicro machine with the following settin
 |Physical Server |5275|5323 |5353 |
 |VM |6070 | 6055 |6138 |
 |Container|5554 |5523 | 5521 |
+|Container(net=host) |5430|
 
 # Network Bandwidth and Latency Evaluation Tools
 
@@ -83,7 +84,7 @@ To cite:
 Cassandra workload concurrently. Concurrency Computat Pract Exper. 2020;e5693. https://doi.org/10.1002/cpe.5693
 
 ```
-
+4. C. G. Kominos, N. Seyvet and K. Vandikas, "Bare-metal, virtual machines and containers in OpenStack," 2017 20th Conference on Innovations in Clouds, Internet and Networks (ICIN), 2017, pp. 36-43, doi: 10.1109/ICIN.2017.7899247.
 
 # Datasets
 
