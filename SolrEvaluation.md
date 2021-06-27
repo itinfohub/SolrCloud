@@ -64,7 +64,7 @@ The physical machine is a dedicated Supermicro machine with the following settin
 |Physical Server |5275|5323 |5353 |
 |VM |6070 | 6055 |6138 |
 |Container|5554 |5523 | 5521 |
-|Container(net=host) |5430|
+|Container(net=host) |5430|5378|5446|
 
 # Network Bandwidth and Latency Evaluation Tools
 
