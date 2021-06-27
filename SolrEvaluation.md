@@ -76,4 +76,10 @@ performance comparison.
 
 1. Yadav A.K., Garg M.L., Ritika (2019) Docker Containers Versus Virtual Machine-Based Virtualization. In: Abraham A., Dutta P., Mandal J., Bhattacharya A., Dutta S. (eds) Emerging Technologies in Data Mining and Information Security. Advances in Intelligent Systems and Computing, vol 814. Springer, Singapore. https://doi.org/10.1007/978-981-13-1501-5_12
 2. Wes Felter, Alexandre Ferreira, Ram Rajamony, Juan Rubio (2015). [An Updated Performance Comparison of Virtual Machines and Linux Containers](https://ieeexplore-ieee-org.login.ezproxy.library.ualberta.ca/stamp/stamp.jsp?tp=&arnumber=7095802). IEEE international symposium on performance analysis of systems and software (ISPASS). pp: 171-172
-3. 
+3. Sogand Shirinbab, Lars Lundberg & Emiliano Casalicchio. (2020). Performance evaluation of containers and virtual machines when running Cassandra workload concurrently.
+```
+To cite:
+ Shirinbab S, Lundberg L, Casalicchio E. Performance evaluation of containers and virtual machines when running
+Cassandra workload concurrently. Concurrency Computat Pract Exper. 2020;e5693. https://doi.org/10.1002/cpe.5693
+
+```
