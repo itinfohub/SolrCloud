@@ -86,6 +86,8 @@ Cassandra workload concurrently. Concurrency Computat Pract Exper. 2020;e5693. h
 ```
 4. C. G. Kominos, N. Seyvet and K. Vandikas, "Bare-metal, virtual machines and containers in OpenStack," 2017 20th Conference on Innovations in Clouds, Internet and Networks (ICIN), 2017, pp. 36-43, doi: 10.1109/ICIN.2017.7899247.
 
+5. D. Merkel. Docker: lightweight linux containers for consistent development and deployment. Linux Journal, 2014(239):2, 2014
+
 # Datasets
 
 1. [database dump](http://www.informatics.jax.org/downloads/database_backups/)
