@@ -21,8 +21,24 @@ physical server, virtual machines, and containers.
     
  # Settings
  
-Physical Server
+**Physical Server**
 
-
+  | Category | Details |
+  |---|---|
+  | Memory | 82GB |
+  | CPU    | 24 (2x6x2)   |
+  | Operating Systems | CentOS 7 |
+  | Kernel | 3.10.0-957.el7.x86_64 |
+  | Virtualization | VT-x as shown by the command lscpu|
+  | Model|Intel(R) Xeon(R) CPU E5645 @2.40GHz|
  
+ **KVM host**
+ - the same as the above
+
+ **Host of Docker Containers**
+ - the same as the physical server
+
+ **SolrCloud**
+ - three separate zookeeper hosts (virtual machines on VMWare)
+ - three solr nodes (physical servers)
  
