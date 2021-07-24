@@ -1,4 +1,4 @@
-# Comparative Study of Solr Delivered in physical servers, virtual machines, and containers
+# Comparative Study of Solr Performance
 
 The objective is to compare performance of Solr when it is deployed to different running environments such as
 physical server, virtual machines, and containers. 
@@ -19,6 +19,10 @@ physical server, virtual machines, and containers.
   
 
     
+ # Settings
  
+Physical Server
+
+
  
  
