@@ -2,7 +2,8 @@
 
 This is to document how to deploy Solr/SolrCloud on a CentOS 7 host.
 
-The Solr version is 8.9.0. 
+The Solr version is 8.8.2, which has an corresponding docker image available at the time
+of the writing. 
 
 # Preparation of the Host Machines
 
