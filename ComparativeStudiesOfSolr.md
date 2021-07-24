@@ -32,7 +32,7 @@ physical server, virtual machines, and containers.
   | Virtualization | VT-x as shown by the command lscpu|
   | Model|Intel(R) Xeon(R) CPU E5645 @2.40GHz|
  
- **KVM host**
+ **KVM Host for Virtual Machines**
  - the same as the above
 
  **Host of Docker Containers**
