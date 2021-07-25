@@ -42,3 +42,18 @@ physical server, virtual machines, and containers.
  - three separate zookeeper hosts (virtual machines on VMWare)
  - three solr nodes (physical servers)
  
+# Datasets
+
+### MARC records at UAL
+
+- MARC is an acrynonym for Machine Readable Cataloging.
+- At UAL, we currently have over 6 million records
+- The ingest application is SolrMarc.jar, a free and Open Source Software (FOSS)
+
+### ERA 
+- ERA is a short for Education and Research Archive at UAL
+- It is an institutional respository (IR) for the University of Alberta.
+- It encompasses theses, research articles, teaching materials and many others.
+- The indexing of through Ruby and Rails application with a customized rake task
+- There are about 63K records.
+
