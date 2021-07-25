@@ -38,6 +38,10 @@ physical server, virtual machines, and containers.
  **Host of Docker Containers**
  - the same as the physical server
 
+**Containers**
+ - container with NAT
+ - container with network=host
+
  **SolrCloud**
  - three separate zookeeper hosts (virtual machines on VMWare)
  - three solr nodes (physical servers)
@@ -56,4 +60,8 @@ physical server, virtual machines, and containers.
 - It encompasses theses, research articles, teaching materials and many others.
 - The indexing of through Ruby and Rails application with a customized rake task
 - There are about 63K records.
+
+# Experiments
+
+
 
