@@ -63,5 +63,18 @@ physical server, virtual machines, and containers.
 
 # Experiments
 
+### Ingestings
+
+Measure the elapsed time for ingesting ERA and MARC records to servers deployed to different
+running forms.
+
+| Server | ERA  | MARC UAL |
+|---|---|---|
+| Physical|Y|Y|
+|VM|Y|Y|
+| Container(NAT)|Y|Y|
+| Container(HOST)|Y|Y|
+| Solrcloud|Y|Y|
+
 
 
