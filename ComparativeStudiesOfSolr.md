@@ -66,15 +66,33 @@ physical server, virtual machines, and containers.
 ### Ingestings
 
 Measure the elapsed time for ingesting ERA and MARC records to servers deployed to different
-running forms.
+running forms. The same type of ingests is repeated three times, the average is taken from
+the three measurements. The heap memory of the corresponding machine is set to be 8092MB for
+all the cases across the board. 
 
 | Server | ERA  | MARC UAL |
 |---|---|---|
 | Physical|Y|Y|
-|VM|Y|Y|
+| VM|Y|Y|
 | Container(NAT)|Y|Y|
 | Container(HOST)|Y|Y|
 | Solrcloud|Y|Y|
+
+### Queries
+
+The query logs from our production were taken, and used as test queries for five different servers.
+
+
+| Server | ERA  | MARC UAL |
+|---|---|---|
+| Physical|Y|Y|
+| VM|Y|Y|
+| Container(NAT)|Y|Y|
+| Container(HOST)|Y|Y|
+| Solrcloud|Y|Y|
+
+### Profiling heap memory usage
+
 
 
 
