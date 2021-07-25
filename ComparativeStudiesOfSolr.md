@@ -74,7 +74,7 @@ all the cases across the board.
 |---|---|---|
 | Physical|Y|Y|
 | VM|Y|Y|
-| Container(NAT)|Y|Y|
+| Container(NAT)|N|Y|
 | Container(HOST)|Y|Y|
 | Solrcloud|Y|Y|
 
@@ -86,9 +86,9 @@ The query logs from our production were taken, and used as test queries for five
 | Server | ERA  | MARC UAL |
 |---|---|---|
 | Physical|Y|Y|
-| VM|Y|Y|
-| Container(NAT)|Y|Y|
-| Container(HOST)|Y|Y|
+| VM|N|N|
+| Container(NAT)|N|N|
+| Container(HOST)|N|N|
 | Solrcloud|Y|Y|
 
 ### Profiling heap memory usage
